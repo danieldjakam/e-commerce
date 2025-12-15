@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-  <title>'DAN-SHOP || Login Page</title>
+  <title>DAN-SHOP || Login Page</title>
   @include('backend.layouts.head')
 
 </head>

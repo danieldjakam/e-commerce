@@ -1,6 +1,6 @@
 @extends('backend.layouts.master')
 
-@section('title','DAN-SHOP || Banner Create')
+@section('title',DAN-SHOP || Banner Create')
 
 @section('main-content')
 
