@@ -15,8 +15,43 @@ class UsersTableSeeder extends Seeder
     {
         $data=array(
             array(
-                'name'=>'Admin',
+                'name'=>'Daniel Djakam',
                 'email'=>'admin@gmail.com',
+                'password'=>Hash::make('1111'),
+                'role'=>'admin',
+                'status'=>'active'
+            ),
+            array(
+                'name'=>'Admin',
+                'email'=>'admin1@gmail.com',
+                'password'=>Hash::make('1111'),
+                'role'=>'admin',
+                'status'=>'active'
+            ),
+            array(
+                'name'=>'Jonathan Nde',
+                'email'=>'admin2@gmail.com',
+                'password'=>Hash::make('1111'),
+                'role'=>'admin',
+                'status'=>'active'
+            ),
+            array(
+                'name'=>'Momene Derick',
+                'email'=>'admin3@gmail.com',
+                'password'=>Hash::make('1111'),
+                'role'=>'admin',
+                'status'=>'active'
+            ),
+            array(
+                'name'=>'Ngene Achille',
+                'email'=>'admin4@gmail.com',
+                'password'=>Hash::make('1111'),
+                'role'=>'admin',
+                'status'=>'active'
+            ),
+            array(
+                'name'=>'Songtama Wilfried',
+                'email'=>'admin5@gmail.com',
                 'password'=>Hash::make('1111'),
                 'role'=>'admin',
                 'status'=>'active'
