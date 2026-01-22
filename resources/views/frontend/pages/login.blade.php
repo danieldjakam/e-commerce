@@ -1,6 +1,6 @@
 @extends('frontend.layouts.master')
 
-@section('title',DAN-SHOP || Login Page')
+@section('title', "DAN-SHOP || Login Page")
 
 @section('main-content')
     <!-- Breadcrumbs -->
